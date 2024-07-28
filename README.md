@@ -1,4 +1,4 @@
-# Colour-Detector
+# Color-Detector
 The Color Detector project involves creating a system that identifies and names colors in images using Python libraries. This project can be useful for applications in design, digital art, and accessibility tools. The below given is the description of how such a system works:
 
 1.	Data Collection and Preparation:
