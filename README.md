@@ -16,13 +16,13 @@ Color Dataset: Create or obtain a dataset containing color names and their corre
    	Interactive Tools: Create interactive tools using libraries like OpenCV’s mouse event handling to allow users to click on parts of the image and get the color name of the selected area.
    	Graphical User Interface (GUI): Develop a simple GUI using libraries such as Tkinter or PyQt to provide a user-friendly interface for loading images, detecting colors, and displaying results.
 
-Python Libraries Used:
+## Python Libraries Used:
 •	OpenCV: For image loading, processing, and displaying results.
 •	PIL (Pillow): For image manipulation and saving results.
 •	NumPy: For efficient numerical operations and handling pixel data.
 •	Tkinter/PyQt: For creating a graphical user interface (optional).
 
-Example Workflow:
+## Example Workflow:
 1.	Load Image: Load an image using OpenCV or PIL.
 2.	Extract Pixels: Extract RGB values of pixels from the image.
 3.	Match Colors: Compare extracted RGB values with the reference dataset to find the closest color match.
